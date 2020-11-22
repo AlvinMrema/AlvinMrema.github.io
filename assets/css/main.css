@@ -1,0 +1,52 @@
+/* Space adjusted for the top navigation bar */
+body {
+  padding-top: 3.7rem;
+}
+
+/* Mark the canvas borders */
+canvas {
+  border: 0.2rem solid rgb(100, 100, 100);
+}
+
+/* Icon Display */
+i.fas, i.fab {
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 4px #888;
+  padding: 0.5em 0.5em;
+}
+
+span, h5 {
+  color: Tomato;
+}
+
+h4 {
+  color: #000;
+}
+
+.icon {
+  font-size: 1.8em;
+}
+
+.socials {
+  font-size: 1.4em;
+}
+
+/* Brown Background */
+.bg-brown {
+  background-color: rgb(121, 102, 60);
+  color: #fff;
+}
+
+/* Link Styles */
+a:hover {
+  text-decoration: none;
+}
+
+/* Profile Picture */
+.profile-img {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  border: 5px solid #888;
+}
